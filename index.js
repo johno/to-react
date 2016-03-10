@@ -22,6 +22,7 @@ module.exports = function toReact (component) {
     throw new TypeError('to-react expected an object with an html string')
   }
 
+  console.log('-----------\n' + component.html + '\n--------------')
   var props = []
 
   var html = cheerio.load(component.html)
