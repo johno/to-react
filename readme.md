@@ -1,5 +1,7 @@
 # to-react [![Build Status](https://secure.travis-ci.org/johnotander/to-react.png?branch=master)](https://travis-ci.org/johnotander/to-react) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
+__Work in progress__
+
 Convert an HTML/CSS component into a functional React component with inline styles.
 This is useful for importing existing code into the React ecosystem.
 
